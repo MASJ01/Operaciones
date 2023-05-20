@@ -1,0 +1,19 @@
+c:\users\hp 2018\documents\visual studio 2012\Projects\Operaciones\Operaciones\bin\Debug\Operaciones.exe.config
+c:\users\hp 2018\documents\visual studio 2012\Projects\Operaciones\Operaciones\bin\Debug\Operaciones.exe
+c:\users\hp 2018\documents\visual studio 2012\Projects\Operaciones\Operaciones\bin\Debug\Operaciones.pdb
+c:\users\hp 2018\documents\visual studio 2012\Projects\Operaciones\Operaciones\obj\Debug\Operaciones.csprojResolveAssemblyReference.cache
+c:\users\hp 2018\documents\visual studio 2012\Projects\Operaciones\Operaciones\obj\Debug\Operaciones.exe
+c:\users\hp 2018\documents\visual studio 2012\Projects\Operaciones\Operaciones\obj\Debug\Operaciones.pdb
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\Lenguaje de programacion estructurado\Operaciones\Operaciones\bin\Debug\Operaciones.exe.config
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\Lenguaje de programacion estructurado\Operaciones\Operaciones\bin\Debug\Operaciones.exe
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\Lenguaje de programacion estructurado\Operaciones\Operaciones\bin\Debug\Operaciones.pdb
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\Lenguaje de programacion estructurado\Operaciones\Operaciones\obj\Debug\Operaciones.csproj.CoreCompileInputs.cache
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\Lenguaje de programacion estructurado\Operaciones\Operaciones\obj\Debug\Operaciones.exe
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\Lenguaje de programacion estructurado\Operaciones\Operaciones\obj\Debug\Operaciones.pdb
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\Lenguaje de programacion estructurado\Operaciones\Operaciones\obj\Debug\Operaciones.csprojAssemblyReference.cache
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Lenguaje de programacion estructurado\Operaciones\Operaciones\bin\Debug\Operaciones.exe.config
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Lenguaje de programacion estructurado\Operaciones\Operaciones\obj\Debug\Operaciones.exe
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Lenguaje de programacion estructurado\Operaciones\Operaciones\obj\Debug\Operaciones.pdb
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Lenguaje de programacion estructurado\Operaciones\Operaciones\bin\Debug\Operaciones.exe
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Lenguaje de programacion estructurado\Operaciones\Operaciones\bin\Debug\Operaciones.pdb
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Lenguaje de programacion estructurado\Operaciones\Operaciones\obj\Debug\Operaciones.csprojResolveAssemblyReference.cache
